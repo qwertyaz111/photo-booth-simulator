@@ -1,0 +1,2 @@
+# photo-booth-simulator
+フォトブースシミュレーター
